@@ -9,3 +9,4 @@ Written mainly by Lucas Poverud. Our team's first season with swerve and Java co
 26/190 Minnesota
 
 Placed third at both the Lake Superior Regional and Seven Rivers Regional
+We won both the Mini Minnesota Off-Season Regional and the Central Minnesota Robotics Conference.
